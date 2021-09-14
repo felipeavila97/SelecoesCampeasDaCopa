@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://statathlon.com/wp-content/uploads/2018/07/2018-07-15T175446Z-2117029189-RC1CB673D310-RTRMADP-3-SOCCER-WORLDCUP-FINAL.jpg);
+    background-size: 1600px ;
+    font: normal 15pt Arial;
+}
+
+header {
+    color: black;
+    text-align: center;
+}
+
+img {
+    margin-top: 30px;
+}
+
+section {
+    background-color: rgba(255, 255, 255, 0.664);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
+}
+
+footer {
+    color: black;
+    text-align: center;
+    font-style: normal;
+}
